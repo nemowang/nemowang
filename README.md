@@ -1,10 +1,10 @@
 ### Hi there 👋
+This is Nemo Wang's repository. I generally use Java in my coding work.
 <hr>
-This is Nemo Wang's repository. I use Java as most of my codes' language.
 
 [![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang)](https://github.com/nemowang/github-readme-stats)
 
-### Contact me💻
+### In case you wangt contact me💻:
 1. E-mail📧: nemowang77@163.com
 2. WeChat📲: nemo-wang-77
 
