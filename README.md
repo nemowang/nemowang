@@ -7,6 +7,7 @@ This is Nemo Wang's repository. I generally use Java in my coding work.
 ### In case you want to contact me💻:
 1. E-mail📧: nemowang77@163.com
 2. WeChat📲: nemo-wang-77
+3. Blogs📝: https://www.cnblogs.com/nemowang1996/
 
 <!--
 Here are some ideas to get you started:
