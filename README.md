@@ -7,9 +7,9 @@ This is Nemo Wang's repository. I generally use Java in my coding work.
 2. WeChat📲: nemo-wang-77
 3. Blogs📝: [NemoWang码不停题](https://www.cnblogs.com/nemowang1996/)
 
-[![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang&show_icons=true&theme=gruvbox)](https://github.com/nemowang/github-readme-stats)
+[![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang&show_icons=true&theme=vue)](https://github.com/nemowang/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemowang&layout=compact&theme=gruvbox)](https://github.com/nemowang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemowang&layout=compact&theme=vue)](https://github.com/nemowang/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
