@@ -2,12 +2,14 @@
 This is Nemo Wang's repository. I generally use Java in my coding work.
 <hr>
 
-[![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang&show_icons=true&theme=merko)](https://github.com/nemowang/github-readme-stats)
+[![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang&show_icons=true&theme=gruvbox)](https://github.com/nemowang/github-readme-stats)
 
 ### In case you want to contact me💻:
 1. E-mail📧: nemowang77@163.com
 2. WeChat📲: nemo-wang-77
 3. Blogs📝: [NemoWang码不停题](https://www.cnblogs.com/nemowang1996/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemowang&layout=compact)](https://github.com/nemowang/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
