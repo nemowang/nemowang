@@ -1,6 +1,12 @@
 ### Hi there 👋
+<hr>
+This is Nemo Wang's repository. I use Java as most of my codes' language.
 
 [![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang)](https://github.com/nemowang/github-readme-stats)
+
+### Contact me💻
+1. E-mail📧: nemowang77@163.com
+2. WeChat📲: nemo-wang-77
 
 <!--
 Here are some ideas to get you started:
