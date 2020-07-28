@@ -2,7 +2,7 @@
 This is Nemo Wang's repository. I generally use Java in my coding work.
 <hr>
 
-[![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang)](https://github.com/nemowang/github-readme-stats)
+[![NemoWang's github stats](https://github-readme-stats.vercel.app/api?username=nemowang)](https://github.com/nemowang/github-readme-stats?theme=merko)
 
 ### In case you want to contact me💻:
 1. E-mail📧: nemowang77@163.com
